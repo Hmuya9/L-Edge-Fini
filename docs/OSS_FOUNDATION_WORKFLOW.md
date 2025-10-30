@@ -284,3 +284,5 @@ Make CI run these headless.
 - Consistent code patterns
 
 This workflow ensures Le Fade is built on proven foundations while maintaining high quality and rapid development velocity.
+
+

@@ -70,3 +70,5 @@ Include at least: package.json, next.config.*, tailwind.config.*, src/app/**, sr
 ## Usage
 
 This prompt should be used when you want a comprehensive, repository-accurate analysis of the current state of Le Fade, with clear next steps and actionable recommendations based solely on what's actually in the codebase.
+
+

@@ -609,3 +609,5 @@ export function BookingForm() {
 5. **Add analytics components** for the admin dashboard
 
 This component library provides Le Fade with professional, modern UI components that enhance the user experience while maintaining full control over the codebase.
+
+

@@ -440,3 +440,5 @@ export async function syncCalComBookings() {
 5. **Test booking flow** with real customers
 
 This approach allows Le Fade to get professional scheduling up and running quickly while maintaining the flexibility to migrate to a fully custom solution later.
+
+

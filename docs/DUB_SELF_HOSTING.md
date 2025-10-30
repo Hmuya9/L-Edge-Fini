@@ -378,3 +378,5 @@ export async function getLinkAnalytics(linkId: string) {
 5. **Monitor performance** and optimize costs
 
 This self-hosted setup gives Le Fade complete control over their link management and analytics while maintaining professional features and scalability.
+
+

@@ -537,3 +537,5 @@ PaginationPrevious.displayName = "PaginationPrevious"
 - **Border Radius**: 0.5rem default radius
 
 This documentation provides a comprehensive guide for implementing and customizing Shadcn/ui components within the Le Fade project, ensuring consistency and maintainability across the application.
+
+

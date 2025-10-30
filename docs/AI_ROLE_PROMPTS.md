@@ -153,3 +153,5 @@ You are Cursor, my repo-aware coding partner for the Le Fade haircut subscriptio
 - **Cursor**: Focus on execution, provide clean diffs and verification
 
 This role-based approach ensures efficient development while maintaining code quality and consistency across the Le Fade codebase.
+
+
